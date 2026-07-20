@@ -1,0 +1,2 @@
+# EduOS
+A simple project 
